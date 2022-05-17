@@ -1,4 +1,4 @@
-package NotOrtalamasıHesaplayanProgram;
+package JavaBeginnerPath.BasicConceptsAndVariables.NotOrtalamasıHesaplayanProgram;
 
 import java.util.Scanner;
 
